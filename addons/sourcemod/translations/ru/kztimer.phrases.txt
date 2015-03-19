@@ -3,12 +3,12 @@
 	"HideChat1"
 	{
 		"#format"   "{1:c},{2:c}"
-		"ru"        "[{1}KZ{2}] Hide chat enabled."
+		"ru"        "[{1}KZ{2}] Чат скрыт."
 	}
 	"HideChat2"
 	{
 		"#format"   "{1:c},{2:c}"
-		"ru"        "[{1}KZ{2}] Hide chat disabled."
+		"ru"        "[{1}KZ{2}] Чат виден."
 	}
 	"HideViewModel1"
 	{
